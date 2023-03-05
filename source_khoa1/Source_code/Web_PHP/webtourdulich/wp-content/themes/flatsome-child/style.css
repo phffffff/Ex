@@ -1,0 +1,123 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.thongtintour>p > i {
+color: #3498db;
+}
+.thongtintour>p {
+font-weight:bold;
+}
+ .nav-dark .nav>li>a{
+    color: #ffffff;
+}
+.header-bottom {
+    background-color: #00B14E;
+}
+.dat-tour {
+    background: #3498db;
+    padding: 10px !important;
+}
+.dat-tour .product-title {
+    font-size: 22px;
+    color: white;
+    border-bottom: 2px solid white;
+    padding-bottom: 2px;
+}
+ul.thong-tin-dau, ul.thong-tin-sau {
+    border-bottom: 2px solid white;
+    width: 100%;
+    list-style-type: none;
+}
+ul.thong-tin-dau .trai, ul.thong-tin-sau .trai {
+    width: 50%;
+    float: left;
+}
+ul.thong-tin-dau .phai, ul.thong-tin-sau .phai {
+    width: 50%;
+    float: right;
+}
+ul.thong-tin-dau p, ul.thong-tin-sau p {
+    color: white;
+    margin-bottom: 0px;
+}
+ul.thong-tin-dau, ul.thong-tin-sau {
+    border-bottom: 2px solid white;
+    width: 100%;
+    list-style-type: none;
+}
+ul.thong-tin-dau p, ul.thong-tin-sau p {
+    color: white;
+    margin-bottom: 0px;
+}
+.dat-tour .tien {
+    font-weight: 700;
+    font-size: 40px;
+    color: #ff0;
+    text-shadow: 1px 1px #999;
+}
+.gia-goc {
+    text-decoration: line-through;
+}
+.button-dat-tour {
+    padding-top: 10px;
+}
+.dat-tour .fancy-single {
+    background: #f39c12;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.form-tu-van {
+
+    margin-top: 10px;
+    border: 2px dashed #3498db;
+        padding: 0px 30px !important;
+}
+h5.form-tu-van{
+text-align:center;
+margin:auto;
+}
+.item-tour-type {
+    height: 75px;
+    border: 1px solid #3498db;
+    border-radius: 6px;
+    margin-bottom: 5px;
+}
+.f-left {
+    float: left;
+}
+
+
+.item-tour-type-icon {
+    background: #3498db;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 81px;
+    height: 74px;
+    padding-top: 19px;
+    text-align: center;
+}
+
+
+
+.item-tour-type-title {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 75px;
+    color: #3498db;
+    padding-left: 15px;
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

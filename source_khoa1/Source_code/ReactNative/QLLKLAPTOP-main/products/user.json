@@ -1,0 +1,16 @@
+{
+    "user":[
+        {
+            "email":"Trung",
+            "password":"1"
+        },
+        {
+            "email":"Dat",
+            "password":"1"
+        },
+        {
+            "email":"Doanh",
+            "password":"1"
+        }
+    ]
+}

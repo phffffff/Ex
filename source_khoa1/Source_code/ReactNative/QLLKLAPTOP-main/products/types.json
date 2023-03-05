@@ -1,0 +1,8 @@
+{
+    "types": [
+        { "id" : 1, "name" : "CPU"},
+        { "id" : 2, "name" : "RAM"},
+        { "id" : 3, "name" : "MAINBOARD"},
+        { "id" : 4, "name" : "GPU"}
+    ]
+}

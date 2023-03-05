@@ -1,0 +1,54 @@
+{
+  "products":[
+      {
+          "id": 7,
+          "name": "RAM Kingston Fury HyperX Kingston Fury (Version 2021)",
+          "price": 19.99,
+          "like": true,
+          "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlzFW1y0zBVywiV4ItXC_z0ZGZaSfIV98WPp0qE-5lbgVB9F41eTPWCyI89EHf_hSvqOTOVf17zJISdMNH0mzOU2roib6MUGgSBJeBogBm&amp;usqp=CAE",
+          "about":
+            "Fan Included: No\nMemory Series: VENGEANCE RGB RS\nMemory Type: DDR4\nMemory Size: 32GB\nTested Latency: 18-22-22-42\nTested Voltage: 1.35\nTested Speed: 3600\nLED Lighting RGB: Single Zone / Multi-Zone Lighting Dynamic Multi-Zone\nSPD Latency: 15-15-15-36\nSPD Speed: 2133MHz\nSPD Voltage: 1.2V\nSpeed Rating: PC4-28800 (3600MHz)\nCompatibility: Intel 300 Series,Intel 400 Series,Intel 500 Series,AMD 300 Series,AMD 400 Series,AMD 500 Series,AMD TRX40\nHeat Spreader: Anodized Aluminum\nPackage Memory Format: DIMM\nPerformance Profile: XMP 2.0\nPackage Memory Pin: 288"
+        },
+      
+        {
+          "id": 8,
+          "name": "RAM KINGSTON HYPERX FURY (Version 2021)",
+          "price": 39.99,
+          "like": false,
+          "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS7hE6dDYWMwWn-YOCQKnJDgn1xdssjUFSy2v59fKu5feNiwp_WQXXMpy8TPdtUJ87c33po4QxTaZpgWxdy0r7ETvSFFVa6X7GevaC6xw2BAAMSfLfxxLHtkg&amp;usqp=CAE",
+          "about":
+          "Fan Included: No\nMemory Series: VENGEANCE RGB RS\nMemory Type: DDR4\nMemory Size: 32GB\nTested Latency: 18-22-22-42\nTested Voltage: 1.35\nTested Speed: 3600\nLED Lighting RGB: Single Zone / Multi-Zone Lighting Dynamic Multi-Zone\nSPD Latency: 15-15-15-36\nSPD Speed: 2133MHz\nSPD Voltage: 1.2V\nSpeed Rating: PC4-28800 (3600MHz)\nCompatibility: Intel 300 Series,Intel 400 Series,Intel 500 Series,AMD 300 Series,AMD 400 Series,AMD 500 Series,AMD TRX40\nHeat Spreader: Anodized Aluminum\nPackage Memory Format: DIMM\nPerformance Profile: XMP 2.0\nPackage Memory Pin: 288"
+
+        },
+        {
+          "id": 9,
+          "name": "RAM Corsair Vengeance Lpx BLACK (Version 2021)",
+          "price": 29.99,
+          "like": false,
+          "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTRjq66QGG1BNX2DXdIwe7hbYXO9OFQv8BuBBLgVymO3dpi9IgSYKt10z-elxFA4wHhwexYm1ZO-UGYXNmG0JrCdDAiEbuCdEMaBo4-NukVFMIhYOwkYTrpLQ&amp;usqp=CAE",
+          "about":
+          "Fan Included: No\nMemory Series: VENGEANCE RGB RS\nMemory Type: DDR4\nMemory Size: 32GB\nTested Latency: 18-22-22-42\nTested Voltage: 1.35\nTested Speed: 3600\nLED Lighting RGB: Single Zone / Multi-Zone Lighting Dynamic Multi-Zone\nSPD Latency: 15-15-15-36\nSPD Speed: 2133MHz\nSPD Voltage: 1.2V\nSpeed Rating: PC4-28800 (3600MHz)\nCompatibility: Intel 300 Series,Intel 400 Series,Intel 500 Series,AMD 300 Series,AMD 400 Series,AMD 500 Series,AMD TRX40\nHeat Spreader: Anodized Aluminum\nPackage Memory Format: DIMM\nPerformance Profile: XMP 2.0\nPackage Memory Pin: 288"
+
+        },
+        {
+          "id": 10,
+          "name": "RAM Adata XPG GamingX (Version 2021)",
+          "price": 9.99,
+          "like": false,
+          "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRedaf161g_rKuOETSegMHy27PQIKVB5yqNwhruXUj2XVyo46QamVdOhfk6-8mnufUsZtN2O0B9cSuMz81M0hz177PnR7N1p45eHdNqgjJHHna6IhGYBs7jrA&amp;usqp=CAE",
+          "about":
+          "Fan Included: No\nMemory Series: VENGEANCE RGB RS\nMemory Type: DDR4\nMemory Size: 32GB\nTested Latency: 18-22-22-42\nTested Voltage: 1.35\nTested Speed: 3600\nLED Lighting RGB: Single Zone / Multi-Zone Lighting Dynamic Multi-Zone\nSPD Latency: 15-15-15-36\nSPD Speed: 2133MHz\nSPD Voltage: 1.2V\nSpeed Rating: PC4-28800 (3600MHz)\nCompatibility: Intel 300 Series,Intel 400 Series,Intel 500 Series,AMD 300 Series,AMD 400 Series,AMD 500 Series,AMD TRX40\nHeat Spreader: Anodized Aluminum\nPackage Memory Format: DIMM\nPerformance Profile: XMP 2.0\nPackage Memory Pin: 288"
+
+        },
+        {
+          "id": 11,
+          "name": "Ram Kingston Hyperx Fury DDR4 (Version 2021)",
+          "price": 8.99,
+          "like": false,
+          "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTPkMnOMuqxtH-HwOqwaPVMU34YPD5bbDdN8Ddei7oYadGCOiQ-dEfQSi_YQwPUk0tKhXmacsjI8dtrsu4TYEHfgQHgR8JylcWY__tuHBWi&amp;usqp=CAE",
+          "about":
+          "Fan Included: No\nMemory Series: VENGEANCE RGB RS\nMemory Type: DDR4\nMemory Size: 32GB\nTested Latency: 18-22-22-42\nTested Voltage: 1.35\nTested Speed: 3600\nLED Lighting RGB: Single Zone / Multi-Zone Lighting Dynamic Multi-Zone\nSPD Latency: 15-15-15-36\nSPD Speed: 2133MHz\nSPD Voltage: 1.2V\nSpeed Rating: PC4-28800 (3600MHz)\nCompatibility: Intel 300 Series,Intel 400 Series,Intel 500 Series,AMD 300 Series,AMD 400 Series,AMD 500 Series,AMD TRX40\nHeat Spreader: Anodized Aluminum\nPackage Memory Format: DIMM\nPerformance Profile: XMP 2.0\nPackage Memory Pin: 288"
+
+        }
+  ]
+}

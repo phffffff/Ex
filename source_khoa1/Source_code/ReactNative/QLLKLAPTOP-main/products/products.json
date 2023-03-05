@@ -1,0 +1,64 @@
+{
+  "products":[
+      {
+          
+          "id": 1,
+          "name": "AMD Ryzen 7-5800H Processor (Version 2021)",
+          "price": 499.99,
+          "price2": 499.99,
+          "like": true,
+          "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTN1jEvuhy7qSx9uPhyJ0R98u9ca_2QPhv2v9wCyQh5vhqDxe_bq-Xm6_DEM90vpJL2mv3LUaOOk48D47haWHg6NduJ_ypXWPwQkDDqKQy_-s4M7HqRg8Ge&amp;usqp=CAE",
+          "about":
+            "# of Cores : 8\n# of Threads : 16\nMax. Boost Clock: Up to 4.7GHz\nBase Clock: 3.8GHz\nTotal L2 Cache: 4MB\nTotal L3 Cache: 32MB\nDefault TDP: 105W\nProcessor Technology for CPU Cores: TSMC 7nm FinFET\nUnlocked for Overclocking: Yes\nCPU Socket: AM4\nThermal Solution (PIB): Not included\nMax. Operating Temperature (Tjmax): 90°C\nLaunch Date: 11/5/2020\nOS Support: Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+        },
+      
+        {
+          "id": 2,
+          "name": "AMD Ryzen 5-5600H Processor (Version 2020)",
+          "price": 399.99,
+          "like": false,
+          "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSLFaXlPv4SRVBHnCZTnx9vpNYLg3l3B2NO7-yZpjwoD5aV3_AOdnNIsgNrtUz1907rYYH0OqJV1ZAFzLlIoEc_GrRTQ1cb6dgyB34XNPjikTkxEnKrNZmgRw&amp;usqp=CAE",
+          "about":
+          "# of Cores : 6\n# of Threads : 12\nMax. Boost Clock: Up to 4.7GHz\nBase Clock: 3.8GHz\nTotal L2 Cache: 4MB\nTotal L3 Cache: 32MB\nDefault TDP: 105W\nProcessor Technology for CPU Cores: TSMC 7nm FinFET\nUnlocked for Overclocking: Yes\nCPU Socket: AM4\nThermal Solution (PIB): Not included\nMax. Operating Temperature (Tjmax): 90°C\nLaunch Date: 11/5/2020\nOS Support: Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+        },
+        {
+          "id": 3,
+          "name": "Intel Core i7-11700 Benchmark (Version 2021)",
+          "price": 449.99,
+          "like": false,
+          "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS03VMK_k5q5KADPBdRvGrTL9IZPJgBPJfBtgDZsEuQj9iE2_i9jdZmuFeZKPanRHjCgrcf2EFD10lwiYIJR1a34oZ4IONuVKwjioFQ4sRD8Dwv96TqYE-XGQ&amp;usqp=CAE",
+          "about":
+          "# of Cores : 8\n# of Threads : 16\nMax. Boost Clock: Up to 4.7GHz\nBase Clock: 3.8GHz\nTotal L2 Cache: 4MB\nTotal L3 Cache: 32MB\nDefault TDP: 105W\nProcessor Technology for CPU Cores: TSMC 7nm FinFET\nUnlocked for Overclocking: Yes\nCPU Socket: AM4\nThermal Solution (PIB): Not included\nMax. Operating Temperature (Tjmax): 90°C\nLaunch Date: 11/5/2020\nOS Support: Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+        },
+        {
+          "id": 4,
+          "name": "Intel Core i5-11600 Processor (Version 2021)",
+          "price": 269.99,
+          "like": false,
+          "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkQV5q1woA_fRCoDdbpp423qV2EN_Fy0x4-HhaCGCadEvCxXLvhhniTpvNlFYCfqK8X-ueM7m1zZgqDkqGzBowr6OCrFDhTQUdiU__4S9XydglvALRpdfpnA&amp;usqp=CAE",
+          "about":
+          "# of Cores : 8\n# of Threads : 16\nMax. Boost Clock: Up to 4.7GHz\nBase Clock: 3.8GHz\nTotal L2 Cache: 4MB\nTotal L3 Cache: 32MB\nDefault TDP: 105W\nProcessor Technology for CPU Cores: TSMC 7nm FinFET\nUnlocked for Overclocking: Yes\nCPU Socket: AM4\nThermal Solution (PIB): Not included\nMax. Operating Temperature (Tjmax): 90°C\nLaunch Date: 11/5/2020\nOS Support: Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+
+        },
+        {
+          "id": 5,
+          "name": "AMD Ryzen 7-5700H Processor (Version 2020)",
+          "price": 479.99,
+          "like": false,
+          "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeNZLx7lncEQjtFus-omF8voHwhU9qLl7sbMT_aYncRUdULWwr5sukzqvxp14FXq7N4it1q1KRv9aIbfKkW4dJADPgFkVwjDTFwuqLWgim1U5Yj71b9e-a&amp;usqp=CAE",
+          "about":
+          "# of Cores : 8\n# of Threads : 16\nMax. Boost Clock: Up to 4.7GHz\nBase Clock: 3.8GHz\nTotal L2 Cache: 4MB\nTotal L3 Cache: 32MB\nDefault TDP: 105W\nProcessor Technology for CPU Cores: TSMC 7nm FinFET\nUnlocked for Overclocking: Yes\nCPU Socket: AM4\nThermal Solution (PIB): Not included\nMax. Operating Temperature (Tjmax): 90°C\nLaunch Date: 11/5/2020\nOS Support: Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+
+        },
+        {
+          "id": 6,
+          "name": "Intel Core i9-11900 Processor (Version 2021",
+          "price": 999.99,
+          "like": false,
+          "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ2KhUMapKAqNofBkB_WgV2WxIJSsNv0TZuiu217WrC0lbqgYn0u4IDKi6m2I8QpEst59UT4BfjQj0S6Yb0kpFY9SvRaoq592vveBHHlFztPHQ5yuwg54rW&amp;usqp=CAE",
+          "about":
+          "# of Cores : 8\n# of Threads : 16\nMax. Boost Clock: Up to 4.7GHz\nBase Clock: 3.8GHz\nTotal L2 Cache: 4MB\nTotal L3 Cache: 32MB\nDefault TDP: 105W\nProcessor Technology for CPU Cores: TSMC 7nm FinFET\nUnlocked for Overclocking: Yes\nCPU Socket: AM4\nThermal Solution (PIB): Not included\nMax. Operating Temperature (Tjmax): 90°C\nLaunch Date: 11/5/2020\nOS Support: Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+
+        }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "products":[
+      {
+          "id": 12,
+          "name": "Mainboard Gigabyte B460M Aorus Pro (B460M AORUS PRO)",
+          "price": 14.99,
+          "like": true,
+          "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuWPazeOtCCLf_QysF9TVWLX5qTzSUtQWaxh2Ikk-yrHynn86791wrVPw858ZeO6lZUtqLpHJIZQbTY-zpD0JnltVbPfQZFaBc29N6cYMokwSRKtecoqu5&amp;usqp=CAE",
+          "about":
+            "Hỗ trợ Bộ xử lý dòng Intel ® Core ™ thế hệ thứ 10\nKênh đôi không có ECC không có bộ đệm DDR4\n4 DIMM\nThiết kế nhiệt tiên tiến với tản nhiệt mở rộng\nQuạt thông minh 5 có nhiều cảm biến nhiệt độ\ntiêu đề quạt lai với FAN STOP\nNVMe PCIe 3.0 x4 M.2 cực nhanh với bộ phận bảo vệ nhiệt\nTốc độ nhanh Intel ® GbE LAN với cFosSpeed\nHỗ trợ Intel ® USB 3.2 Gen1 Type-C ™"
+        },
+      
+        {
+          "id": 13,
+          "name": "Mainboard MSI Z590 GAMING CARBON WIFI 2.0",
+          "price": 59.99,
+          "like": false,
+          "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7_i1btfA2oi6573HwXA3rxxlu0gRi5wS4aSPf4-m2OxZrxwMK_cJomNBZsKrUus2WYCeGQOuk-qkMQgh5MidKfvPz6npYKJiDhLKX9gzzpf1VmLwe4kuQ&amp;usqp=CAE",
+          "about":
+            "Chuẩn mainboard: ATX Socket: 1200\nChipset: Z590\nHỗ trợ RAM: 4 khe DDR4\nLưu trữ: 6 x SATA 3 6Gb/s\nCổng xuất hình: 1 x HDMI, 1 x DisplayPort"
+        },
+        {
+          "id": 14,
+          "name": "MSI X370 XPOWER GAMING TITANIUM VER 2.0",
+          "price": 49.99,
+          "like": false,
+          "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVuWWeSaVee-u6HSlEVmQ7zzDChPBQYJ_ArQ96Ex8qFzmYEsk9rQ_NFiJ2MOqNZk3RYM1yVa9nXMBexGiyeap4GU7v-ghdSixDCG9hAviJdVZGPUQ2jrqZ&amp;usqp=CAE",
+          "about":
+            "Heatsink Frozr"
+        },
+        {
+          "id": 15,
+          "name": "ASUS Prime Z590M-Plus Iga 1200 (Version 2020)",
+          "price": 49.99,
+          "like": false,
+          "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeaPgmRB64cSAW1vtRoPcGaFQTDoicjeCfgHIuY7dHWb0nKcB-FCFytMS4L6phTnrExFSlTdL-kbfdB2duuxKDlqg9wupCpzMFnvJ6Uubsge6RPk8_Nu3_tw&amp;usqp=CAE",
+          "about":
+            "Prime ASUS"
+        },
+        {
+          "id": 16,
+          "name": "Mainboard Asus ROG Strix Z490-E Gaming Pro",
+          "price": 15.99,
+          "like": false,
+          "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRp8YO9abWZJKG2VsypoVNeLLJ88iQwrh6lP8XxcEKlz7W7jMaMarKaUiBj2XhUesMx1z21BNqrozdHSG_0nSnt9uAEE3P5tmFecGSUoEWK9u1BF5U8h4m6&amp;usqp=CAE",
+          "about":
+            "Gaming ASUS"
+        }
+  ]
+}

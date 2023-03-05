@@ -1,0 +1,59 @@
+{
+  "products":[
+      {
+          "id": 17,
+          "name": "GIGABYTE GeForce RTX 3090 Vision OC 24G",
+          "price": 2899.99,
+          "like": true,
+          "img": "https://product.hstatic.net/1000026716/product/gearvn-gigabyte-geforce-rtx-3090-vision-oc-24g_b6a6281a2c514a6b9ec63622d5ecc1b4.jpg",
+          "about":
+            "Nice"
+        },
+      
+        {
+          "id": 18,
+          "name": "GIGABYTE GeForce RTX 3070 GAMING OC 8G",
+          "price": 1199.99,
+          "like": false,
+          "img": "https://product.hstatic.net/1000026716/product/gearvn-gigabyte-geforce-rtx-3070-gaming-oc-8g-666_bb5b5b524f064aa7ae01ed9fc221209c.jpg",
+          "about":
+            "Noice"
+        },
+        {
+          "id": 19,
+          "name": "ASUS ROG Strix GeForce RTX 3090 Gaming OC edition",
+          "price": 3499.99,
+          "like": false,
+          "img": "https://product.hstatic.net/1000026716/product/gearvn-vga-asus-geforce-rtx-3090-rog-strix-oc-24g-gaming-666_8ee13b43ada1449da0bd8fef0790e78c.jpg",
+          "about":
+            "uWU"
+        },
+        {
+          "id": 20,
+          "name": "MSI GeForce RTX 3090 OC GAMING X TRIO 24G",
+          "price": 2899.99,
+          "like": false,
+          "img": "https://product.hstatic.net/1000026716/product/gearvn-geforce-rtx-3090-gaming-x-trio-24g-66_19b3f78b95bc46af9956ad3334281e72.png",
+          "about":
+            "OWO"
+        },
+        {
+          "id": 21,
+          "name": "GIGABYTE NVIDIA Quadro P2200 5GB GDDR5X",
+          "price": 499.99,
+          "like": false,
+          "img": "https://product.hstatic.net/1000026716/product/9362_61b63a4c0e0d4adca5f4e51ee4a75e37.jpg",
+          "about":
+            "nothingtosay"
+        },
+        {
+          "id": 22,
+          "name": "Gigabyte Aorus GeForce RTX 3080 Xtreme Waterforce",
+          "price": 1999.99,
+          "like": false,
+          "img": "https://product.hstatic.net/1000026716/product/gearvn-gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-wb-10g-666_a783d574b54a4c819a135ef6923a606b.png",
+          "about":
+            "beautiful"
+        }
+  ]
+}

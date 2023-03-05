@@ -1,0 +1,192 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.12
+* STEP-1 START @ 12:57:42
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	7.3.30 | SAPI: apache2handler
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/7.3.30
+DOC ROOT:	C:/xampp/htdocs/webtourdulich
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://localhost/webtourdulich/installer.php
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	20170804_tourdulichviet1sanphamcu_c38c194158a07ef75351171110050719_archive.zip
+SIZE:	48.53MB
+ZIP:	Enabled (ZipArchive Support)
+
+>>> START EXTRACTION:
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9540
+    [filename] => C:\xampp\htdocs\webtourdulich\20170804_tourdulichviet1sanphamcu_c38c194158a07ef75351171110050719_archive.zip
+    [comment] => 
+)
+File timestamp is 'Current' mode: 2022-05-12 12:57:58
+<<< EXTRACTION COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.220512125758.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 12:57:58 - RUNTIME: 15.9777 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 01:02:09
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+--------------------------------------
+DATABASE ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.21 -- Build Server: 10.0.31
+FILE SIZE:	database.sql (1.93MB) - installer-data.sql (1.93MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/xampp/htdocs/webtourdulich/installer-data.sql]
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+TABLES DROPPED:	32
+QUERIES RAN:	3926
+
+svn_commentmeta: (2)
+svn_comments: (1)
+svn_duplicator_packages: (1)
+svn_links: (0)
+svn_muahangnhanh: (6)
+svn_options: (1893)
+svn_postmeta: (1250)
+svn_posts: (356)
+svn_social_users: (0)
+svn_term_relationships: (100)
+svn_term_taxonomy: (67)
+svn_termmeta: (68)
+svn_terms: (67)
+svn_toolset_post_guid_id: (0)
+svn_usermeta: (76)
+svn_users: (1)
+svn_woocommerce_api_keys: (0)
+svn_woocommerce_attribute_taxonomies: (0)
+svn_woocommerce_downloadable_product_permissions: (0)
+svn_woocommerce_log: (0)
+svn_woocommerce_order_itemmeta: (0)
+svn_woocommerce_order_items: (0)
+svn_woocommerce_payment_tokenmeta: (0)
+svn_woocommerce_payment_tokens: (0)
+svn_woocommerce_sessions: (1)
+svn_woocommerce_shipping_zone_locations: (0)
+svn_woocommerce_shipping_zone_methods: (0)
+svn_woocommerce_shipping_zones: (0)
+svn_woocommerce_tax_rate_locations: (0)
+svn_woocommerce_tax_rates: (0)
+svn_yith_wcwl: (1)
+svn_yith_wcwl_lists: (1)
+
+Removed '1590' cache/transient rows
+
+CREATE/INSTALL RUNTIME: 1.0162 sec.
+STEP-2 COMPLETE @ 01:02:11 - RUNTIME: 1.1424 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-3 START @ 01:02:43
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	utf8mb4
+CHARSET CLIENT:	utf8
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+svn_commentmeta~ (2)
+svn_comments~ (1)
+svn_duplicator_packages^ (0)
+svn_links^ (0)
+svn_muahangnhanh~ (6)
+svn_options~ (301)
+svn_postmeta~ (1250)
+svn_posts~ (356)
+svn_social_users^ (0)
+svn_term_relationships~ (100)
+svn_term_taxonomy~ (67)
+svn_termmeta~ (68)
+svn_terms~ (67)
+svn_toolset_post_guid_id^ (0)
+svn_usermeta~ (76)
+svn_users~ (1)
+svn_woocommerce_api_keys^ (0)
+svn_woocommerce_attribute_taxonomies^ (0)
+svn_woocommerce_downloadable_product_permissions^ (0)
+svn_woocommerce_log^ (0)
+svn_woocommerce_order_itemmeta^ (0)
+svn_woocommerce_order_items^ (0)
+svn_woocommerce_payment_tokenmeta^ (0)
+svn_woocommerce_payment_tokens^ (0)
+svn_woocommerce_sessions~ (1)
+svn_woocommerce_shipping_zone_locations^ (0)
+svn_woocommerce_shipping_zone_methods^ (0)
+svn_woocommerce_shipping_zones^ (0)
+svn_woocommerce_tax_rate_locations^ (0)
+svn_woocommerce_tax_rates^ (0)
+svn_yith_wcwl~ (1)
+svn_yith_wcwl_lists~ (1)
+--------------------------------------
+Search1:	'http://tour.svnweb.com' 
+Change1:	'http://localhost:8080/webtourdulich' 
+Search2:	'/home/tour.svnweb.com/public_html' 
+Change2:	'C:/xampp/htdocs/webtourdulich' 
+Search3:	'http:\/\/tour.svnweb.com' 
+Change3:	'http:\/\/localhost:8080\/webtourdulich' 
+Search4:	'\/home\/tour.svnweb.com\/public_html' 
+Change4:	'C:\/xampp\/htdocs\/webtourdulich' 
+Search5:	'%2Fhome%2Ftour.svnweb.com%2Fpublic_html%2F' 
+Change5:	'C%3A%2Fxampp%2Fhtdocs%2Fwebtourdulich%2F' 
+Search6:	'http%3A%2F%2Ftour.svnweb.com' 
+Change6:	'http%3A%2F%2Flocalhost%3A8080%2Fwebtourdulich' 
+Search7:	'\home\tour.svnweb.com\public_html' 
+Change7:	'C:/xampp/htdocs/webtourdulich' 
+SCANNED:	Tables:32 	|	 Rows:2298 	|	 Cells:16042 
+UPDATED:	Tables:1 	|	 Rows:236 	|	 Cells:243 
+ERRORS:		0 
+RUNTIME:	0.366100 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG: /wp-config.php' (if present)
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+- Preparing .htaccess file with basic setup.
+Basic .htaccess file edit complete.  If using IIS web.config this process will need to be done manually.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+- Created directory wp-snapshots
+- Created file wp-snapshots/index.php
+
+====================================
+NOTICES
+====================================
+
+No Notices Found
+
+
+STEP 3 COMPLETE @ 01:02:43 - RUNTIME: 0.4124 sec.
+
+

@@ -1,0 +1,65 @@
+{
+    "notifies":[
+        {
+          "id": 1,
+          "about":
+          "Flash Sale 07/07 - Giảm giá lên đến 50%"
+        },
+        {
+          "id": 2,
+          "about":
+            "Mua Linh Kiện GIGABYTE - Nhận Ngay Hàng Hiệu"
+          
+        },
+        {
+          "id": 3,
+          "about":
+            "MUA NGUỒN MSI A650GF TẶNG TAY CẦM MSI GC30"
+          
+        },
+        {
+          "id": 4,
+          "about":
+            "Hè Thật Cháy - Giá Thật Bay"
+          
+        },
+        {
+          "id": 5,
+          "about":
+            "Làm việc tại nhà, chơi game tại gia"
+          
+        },
+        {
+          "id": 6,
+          "about":
+            "3 NGÀY VÀNG - SALES SẬP SÀN"
+          
+        },
+        {
+          "id": 7,
+          "about":
+            "Mua bo mạch chủ MSI B550, tản AIO- nhân ngay code steam lên đến $40"
+          
+        },
+        {
+          "id": 8,
+          "about":
+            "Hết Giãn Cách - Nhận Quà Thật Oách"
+        },
+        {
+          "id": 9,
+          "about":
+            "ASUS và Noctua công bố card đồ họa ASUS GeForce RTX 3070 Noctua Edition"
+        },
+        {
+          "id": 10,
+          "about":
+            "Mua Linh Kiện GIGABYTE - Nhận Ngay Hàng Hiệu"
+        },
+        {
+          "id": 10,
+          "about":
+            "Nguyễn Văn Doanh"
+        }
+    ]
+}

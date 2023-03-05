@@ -1,0 +1,207 @@
+{
+    "products":[
+        {
+            
+            "id": 1,
+            "name": "AMD Ryzen 7-5800X",
+            "price": 499.99,
+            "type": 1,
+            "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTN1jEvuhy7qSx9uPhyJ0R98u9ca_2QPhv2v9wCyQh5vhqDxe_bq-Xm6_DEM90vpJL2mv3LUaOOk48D47haWHg6NduJ_ypXWPwQkDDqKQy_-s4M7HqRg8Ge&amp;usqp=CAE",
+            "about":
+              "8 cores 16 threads"
+          },
+        
+          {
+            "id": 2,
+            "name": "AMD Ryzen 5-5600X",
+            "price": 399.99,
+            "type": 1,
+            "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSLFaXlPv4SRVBHnCZTnx9vpNYLg3l3B2NO7-yZpjwoD5aV3_AOdnNIsgNrtUz1907rYYH0OqJV1ZAFzLlIoEc_GrRTQ1cb6dgyB34XNPjikTkxEnKrNZmgRw&amp;usqp=CAE",
+            "about":
+              "6 cores 12 threads"
+          },
+          {
+            "id": 3,
+            "name": "Intel Core i7-11700K",
+            "price": 449.99,
+            "type": 1,
+            "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS03VMK_k5q5KADPBdRvGrTL9IZPJgBPJfBtgDZsEuQj9iE2_i9jdZmuFeZKPanRHjCgrcf2EFD10lwiYIJR1a34oZ4IONuVKwjioFQ4sRD8Dwv96TqYE-XGQ&amp;usqp=CAE",
+            "about":
+              "8 cores 16 threads"
+          },
+          {
+            "id": 4,
+            "name": "Intel Core i5-11600K",
+            "price": 269.99,
+            "type": 1,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkQV5q1woA_fRCoDdbpp423qV2EN_Fy0x4-HhaCGCadEvCxXLvhhniTpvNlFYCfqK8X-ueM7m1zZgqDkqGzBowr6OCrFDhTQUdiU__4S9XydglvALRpdfpnA&amp;usqp=CAE",
+            "about":
+              "6 cores 12 threads"
+          },
+          {
+            "id": 5,
+            "name": "AMD Ryzen 7-5700G",
+            "price": 479.99,
+            "type": 1,
+            "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeNZLx7lncEQjtFus-omF8voHwhU9qLl7sbMT_aYncRUdULWwr5sukzqvxp14FXq7N4it1q1KRv9aIbfKkW4dJADPgFkVwjDTFwuqLWgim1U5Yj71b9e-a&amp;usqp=CAE",
+            "about":
+              "8 cores 16 threads"
+          },
+          {
+            "id": 6,
+            "name": "Intel Core i9-11900K",
+            "price": 999.99,
+            "type": 1,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ2KhUMapKAqNofBkB_WgV2WxIJSsNv0TZuiu217WrC0lbqgYn0u4IDKi6m2I8QpEst59UT4BfjQj0S6Yb0kpFY9SvRaoq592vveBHHlFztPHQ5yuwg54rW&amp;usqp=CAE",
+            "about":
+              "8 cores 16 threads"
+          },
+          {
+            "id": 7,
+            "name": "RAM PC Kingston Fury HyperX Kingston Fury 8GB DDR4 2666Mhz",
+            "price": 19.99,
+            "type": 2,
+            "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlzFW1y0zBVywiV4ItXC_z0ZGZaSfIV98WPp0qE-5lbgVB9F41eTPWCyI89EHf_hSvqOTOVf17zJISdMNH0mzOU2roib6MUGgSBJeBogBm&amp;usqp=CAE",
+            "about":
+              "1x8GB 2666MHz DDR4"
+          },
+        
+          {
+            "id": 8,
+            "name": "RAM KINGSTON HYPERX FURY 16GB DDR4 3200Mhz",
+            "price": 39.99,
+            "type": 2,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS7hE6dDYWMwWn-YOCQKnJDgn1xdssjUFSy2v59fKu5feNiwp_WQXXMpy8TPdtUJ87c33po4QxTaZpgWxdy0r7ETvSFFVa6X7GevaC6xw2BAAMSfLfxxLHtkg&amp;usqp=CAE",
+            "about":
+              "2x8GB 3200MHZ"
+          },
+          {
+            "id": 9,
+            "name": "RAM Desktop 16GB DDR4 3200Mhz Corsair Vengeance Lpx BLACK",
+            "price": 29.99,
+            "type": 2,
+            "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTRjq66QGG1BNX2DXdIwe7hbYXO9OFQv8BuBBLgVymO3dpi9IgSYKt10z-elxFA4wHhwexYm1ZO-UGYXNmG0JrCdDAiEbuCdEMaBo4-NukVFMIhYOwkYTrpLQ&amp;usqp=CAE",
+            "about":
+              " 1x16GB 3200MHZ DDR4"
+          },
+          {
+            "id": 10,
+            "name": "RAM Desktop Adata XPG Gammix 16GB DDR4 3000Mhz",
+            "price": 9.99,
+            "type": 2,
+            "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRedaf161g_rKuOETSegMHy27PQIKVB5yqNwhruXUj2XVyo46QamVdOhfk6-8mnufUsZtN2O0B9cSuMz81M0hz177PnR7N1p45eHdNqgjJHHna6IhGYBs7jrA&amp;usqp=CAE",
+            "about":
+              "1x16GB 3000MHZ"
+          },
+          {
+            "id": 11,
+            "name": "Ram Kingston DDR4 16GB Bus 2666Mhz",
+            "price": 8.99,
+            "type": 2,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTPkMnOMuqxtH-HwOqwaPVMU34YPD5bbDdN8Ddei7oYadGCOiQ-dEfQSi_YQwPUk0tKhXmacsjI8dtrsu4TYEHfgQHgR8JylcWY__tuHBWi&amp;usqp=CAE",
+            "about":
+              "2x8GB 2666MHZ"
+          },
+          {
+            "id": 12,
+            "name": "Mainboard Gigabyte B460M Aorus Pro (B460M AORUS PRO)",
+            "price": 14.99,
+            "type": 3,
+            "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuWPazeOtCCLf_QysF9TVWLX5qTzSUtQWaxh2Ikk-yrHynn86791wrVPw858ZeO6lZUtqLpHJIZQbTY-zpD0JnltVbPfQZFaBc29N6cYMokwSRKtecoqu5&amp;usqp=CAE",
+            "about":
+              "Hỗ trợ Bộ xử lý dòng Intel ® Core ™ thế hệ thứ 10, Kênh đôi không có ECC không có bộ đệm DDR4, 4 DIMM, Thiết kế nhiệt tiên tiến với tản nhiệt mở rộng, Quạt thông minh 5 có nhiều cảm biến nhiệt độ, tiêu đề quạt lai với FAN STOP, NVMe PCIe 3.0 x4 M.2 cực nhanh với bộ phận bảo vệ nhiệt, Tốc độ nhanh Intel ® GbE LAN với cFosSpeed, Hỗ trợ Intel ® USB 3.2 Gen1 Type-C ™"
+          },
+        
+          {
+            "id": 13,
+            "name": "Mainboard MSI Z590 GAMING CARBON WIFI",
+            "price": 59.99,
+            "type": 3,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7_i1btfA2oi6573HwXA3rxxlu0gRi5wS4aSPf4-m2OxZrxwMK_cJomNBZsKrUus2WYCeGQOuk-qkMQgh5MidKfvPz6npYKJiDhLKX9gzzpf1VmLwe4kuQ&amp;usqp=CAE",
+            "about":
+              "Chuẩn mainboard: ATX Socket: 1200 , Chipset: Z590 - Hỗ trợ RAM: 4 khe DDR4 - Lưu trữ: 6 x SATA 3 6Gb/s - Cổng xuất hình: 1 x HDMI, 1 x DisplayPort"
+          },
+          {
+            "id": 14,
+            "name": "MSI X370 XPOWER GAMING TITANIUM",
+            "price": 49.99,
+            "type": 3,
+            "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVuWWeSaVee-u6HSlEVmQ7zzDChPBQYJ_ArQ96Ex8qFzmYEsk9rQ_NFiJ2MOqNZk3RYM1yVa9nXMBexGiyeap4GU7v-ghdSixDCG9hAviJdVZGPUQ2jrqZ&amp;usqp=CAE",
+            "about":
+              "Heatsink Frozr"
+          },
+          {
+            "id": 15,
+            "name": "ASUS Prime Z590",
+            "price": 49.99,
+            "type": 3,
+            "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeaPgmRB64cSAW1vtRoPcGaFQTDoicjeCfgHIuY7dHWb0nKcB-FCFytMS4L6phTnrExFSlTdL-kbfdB2duuxKDlqg9wupCpzMFnvJ6Uubsge6RPk8_Nu3_tw&amp;usqp=CAE",
+            "about":
+              "Prime ASUS"
+          },
+          {
+            "id": 16,
+            "name": "Mainboard Asus ROG Strix Z490-E Gaming",
+            "price": 15.99,
+            "type": 3,
+            "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRp8YO9abWZJKG2VsypoVNeLLJ88iQwrh6lP8XxcEKlz7W7jMaMarKaUiBj2XhUesMx1z21BNqrozdHSG_0nSnt9uAEE3P5tmFecGSUoEWK9u1BF5U8h4m6&amp;usqp=CAE",
+            "about":
+              "Gaming ASUS"
+          },
+          {
+            "id": 17,
+            "name": "GIGABYTE GeForce RTX 3090 Vision OC 24G",
+            "price": 2899.99,
+            "type": 4,
+            "img": "https://product.hstatic.net/1000026716/product/gearvn-gigabyte-geforce-rtx-3090-vision-oc-24g_b6a6281a2c514a6b9ec63622d5ecc1b4.jpg",
+            "about":
+              "Nice"
+          },
+        
+          {
+            "id": 18,
+            "name": "GIGABYTE GeForce RTX 3070 GAMING OC 8G",
+            "price": 1199.99,
+            "type": 4,
+            "img": "https://product.hstatic.net/1000026716/product/gearvn-gigabyte-geforce-rtx-3070-gaming-oc-8g-666_bb5b5b524f064aa7ae01ed9fc221209c.jpg",
+            "about":
+              "Noice"
+          },
+          {
+            "id": 19,
+            "name": "ASUS ROG Strix GeForce RTX 3090 Gaming OC edition 24G",
+            "price": 3499.99,
+            "type": 4,
+            "img": "https://product.hstatic.net/1000026716/product/gearvn-vga-asus-geforce-rtx-3090-rog-strix-oc-24g-gaming-666_8ee13b43ada1449da0bd8fef0790e78c.jpg",
+            "about":
+              "uWU"
+          },
+          {
+            "id": 20,
+            "name": "MSI GeForce RTX 3090 GAMING X TRIO 24G",
+            "price": 2899.99,
+            "type": 4,
+            "img": "https://product.hstatic.net/1000026716/product/gearvn-geforce-rtx-3090-gaming-x-trio-24g-66_19b3f78b95bc46af9956ad3334281e72.png",
+            "about":
+              "OWO"
+          },
+          {
+            "id": 21,
+            "name": "GIGABYTE NVIDIA Quadro P2200 5GB GDDR5X",
+            "price": 499.99,
+            "type": 4,
+            "img": "https://product.hstatic.net/1000026716/product/9362_61b63a4c0e0d4adca5f4e51ee4a75e37.jpg",
+            "about":
+              "nothingtosay"
+          },
+          {
+            "id": 22,
+            "name": "Gigabyte Aorus GeForce RTX 3080 Xtreme Waterforce WB 10G",
+            "price": 1999.99,
+            "type": 4,
+            "img": "https://product.hstatic.net/1000026716/product/gearvn-gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-wb-10g-666_a783d574b54a4c819a135ef6923a606b.png",
+            "about":
+              "beautiful"
+          }
+    ]
+}
